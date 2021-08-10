@@ -1,0 +1,704 @@
+[
+  {
+    "id": "1",
+    "dbFile": "ma_am_sadiq.db",
+    "languageCode": "am",
+    "bookName": "",
+    "language": "Amharic",
+    "translator": "Muhammed Sadiq and Muhammed Sani Habib",
+    "translatorForeign": "ሳዲቅ & ሳኒ ሐቢብ"
+  },
+  {
+    "id": "2",
+    "dbFile": "ma_ar_muyassar.db",
+    "languageCode": "ar",
+    "bookName": "",
+    "language": "Arabic",
+    "translator": "Arabic Muyassar Tafseer",
+    "translatorForeign": "التفسير الميسر"
+  },
+  {
+    "id": "3",
+    "dbFile": "ma_az_mammadaliyev.db",
+    "languageCode": "az",
+    "bookName": "",
+    "language": "Azerbaijani",
+    "translator": "Vasim Mammadaliyev And Ziya Bunyadov",
+    "translatorForeign": "Məmmədəliyev & Bünyadov"
+  },
+  {
+    "id": "4",
+    "dbFile": "ma_az_musayev.db",
+    "languageCode": "az",
+    "bookName": "",
+    "language": "Azerbaijani",
+    "translator": "Alikhan Musayev",
+    "translatorForeign": "Musayev"
+  },
+  {
+    "id": "5",
+    "dbFile": "ma_bg_theophanov.db",
+    "languageCode": "bg",
+    "bookName": "",
+    "language": "Bulgarian",
+    "translator": "Tzvetan Theophanov",
+    "translatorForeign": "Теофанов"
+  },
+  {
+    "id": "6",
+    "dbFile": "ma_bn_bengali.db",
+    "languageCode": "bn",
+    "bookName": "",
+    "language": "Bengali",
+    "translator": "Muhiuddin Khan",
+    "translatorForeign": "মুহিউদ্দীন খান"
+  },
+  {
+    "id": "7",
+    "dbFile": "ma_bn_hoque.db",
+    "languageCode": "bn",
+    "bookName": "",
+    "language": "Bengali",
+    "translator": "Zohurul Hoque",
+    "translatorForeign": "জহুরুল হক"
+  },
+  {
+    "id": "8",
+    "dbFile": "ma_bs_korkut.db",
+    "languageCode": "bs",
+    "bookName": "",
+    "language": "Bosnian",
+    "translator": "Besim Korkut",
+    "translatorForeign": "Besim Korkut"
+  },
+  {
+    "id": "9",
+    "dbFile": "ma_bs_mlivo.db",
+    "languageCode": "bs",
+    "bookName": "",
+    "language": "Bosnian",
+    "translator": "Mustafa Mlivo",
+    "translatorForeign": "Mustafa Mlivo"
+  },
+  {
+    "id": "10",
+    "dbFile": "ma_bs_mlivo.db",
+    "languageCode": "bs",
+    "bookName": "",
+    "language": "Bosnian",
+    "translator": "Mustafa Mlivo",
+    "translatorForeign": "Mustafa Mlivo"
+  },
+  {
+    "id": "11",
+    "dbFile": "ma_cs_hrbek.db",
+    "languageCode": "cs",
+    "bookName": "",
+    "language": "Czech",
+    "translator": "Preklad I. Hrbek",
+    "translatorForeign": "Preklad I. Hrbek"
+  },
+  {
+    "id": "12",
+    "dbFile": "ma_cs_nykl.db",
+    "languageCode": "cs",
+    "bookName": "",
+    "language": "Czech",
+    "translator": "A. R. Nykl",
+    "translatorForeign": "A. R. Nykl"
+  },
+  {
+    "id": "13",
+    "dbFile": "ma_de_bubenheim.db",
+    "languageCode": "de",
+    "bookName": "",
+    "language": "German",
+    "translator": "Bubenheim & Elyas",
+    "translatorForeign": "A. S. F. Bubenheim and N. Elyas"
+  },
+  {
+    "id": "14",
+    "dbFile": "ma_de_khoury.db",
+    "languageCode": "de",
+    "bookName": "",
+    "language": "German",
+    "translator": "Khoury",
+    "translatorForeign": "Adel Theodor Khoury"
+  },
+  {
+    "id": "15",
+    "dbFile": "ma_de_zaidan.db",
+    "languageCode": "de",
+    "bookName": "",
+    "language": "German",
+    "translator": "Zaidan",
+    "translatorForeign": "Amir Zaidan"
+  },
+  {
+    "id": "16",
+    "dbFile": "ma_dv_divehi.db",
+    "languageCode": "dv",
+    "bookName": "",
+    "language": "Maldivian (Divehi)",
+    "translator": "Office of the President of Maldives",
+    "translatorForeign": "ދިވެހި"
+  },
+  {
+    "id": "17",
+    "dbFile": "ma_en_ahmedraza.db",
+    "languageCode": "en",
+    "bookName": "",
+    "language": "English",
+    "translator": "Ahmed Raza Khan",
+    "translatorForeign": "Ahmed Raza Khan"
+  },
+  {
+    "id": "18",
+    "dbFile": "ma_en_sahih.db",
+    "languageCode": "en",
+    "bookName": "",
+    "language": "English",
+    "translator": "Saheeh International",
+    "translatorForeign": "Saheeh International"
+  },
+  {
+    "id": "19",
+    "dbFile": "ma_en_transliteration.db",
+    "languageCode": "en",
+    "bookName": "",
+    "language": "English",
+    "translator": "English Transliteration",
+    "translatorForeign": "English Transliteration"
+  },
+  {
+    "id": "20",
+    "dbFile": "ma_en_yusufali.db",
+    "languageCode": "en",
+    "bookName": "",
+    "language": "English",
+    "translator": "Yusuf Ali",
+    "translatorForeign": "Abdullah Yusuf Ali"
+  },
+  {
+    "id": "21",
+    "dbFile": "ma_es_bornez.db",
+    "languageCode": "es",
+    "bookName": "",
+    "language": "Spanish",
+    "translator": "Bornez",
+    "translatorForeign": "Raúl González Bórnez"
+  },
+  {
+    "id": "22",
+    "dbFile": "ma_es_garcia.db",
+    "languageCode": "es",
+    "bookName": "",
+    "language": "Spanish",
+    "translator": "Garcia",
+    "translatorForeign": "Muhammad Isa García"
+  },
+  {
+    "id": "23",
+    "dbFile": "ma_fa_ansarian.db",
+    "languageCode": "fa",
+    "bookName": "",
+    "language": "Persian",
+    "translator": "Hussain Ansarian",
+    "translatorForeign": "انصاریان"
+  },
+  {
+    "id": "24",
+    "dbFile": "ma_fa_ayati.db",
+    "languageCode": "fa",
+    "bookName": "",
+    "language": "Persian",
+    "translator": "AbdolMohammad Ayati",
+    "translatorForeign": "آیتی"
+  },
+  {
+    "id": "25",
+    "dbFile": "ma_fa_ghomshei.db",
+    "languageCode": "fa",
+    "bookName": "",
+    "language": "Persian",
+    "translator": "Mahdi Elahi Ghomshei",
+    "translatorForeign": "الهی قمشهای"
+  },
+  {
+    "id": "26",
+    "dbFile": "ma_fa_makarem.db",
+    "languageCode": "fa",
+    "bookName": "",
+    "language": "Persian",
+    "translator": "Naser Makarem Shirazi",
+    "translatorForeign": "مکارم شیرازی"
+  },
+  {
+    "id": "27",
+    "dbFile": "ma_fa_sadeqi.db",
+    "languageCode": "fa",
+    "bookName": "",
+    "language": "Persian",
+    "translator": "Mohammad Sadeqi Tehrani",
+    "translatorForeign": "صادقی تهرانی"
+  },
+  {
+    "id": "28",
+    "dbFile": "ma_fr_hamidullah.db",
+    "languageCode": "fr",
+    "bookName": "",
+    "language": "French",
+    "translator": "Hamidullah",
+    "translatorForeign": "Muhammad Hamidullah"
+  },
+  {
+    "id": "29",
+    "dbFile": "ma_ha_gumi.db",
+    "languageCode": "ha",
+    "bookName": "",
+    "language": "French",
+    "translator": "Gumi",
+    "translatorForeign": "Abubakar Mahmoud Gumi"
+  },
+  {
+    "id": "30",
+    "dbFile": "ma_hi_farooq.db",
+    "languageCode": "hi",
+    "bookName": "",
+    "language": "Hindi",
+    "translator": "Muhammad Farooq Khan and Muhammad Ahmed",
+    "translatorForeign": "फ़ारूक़ ख़ान & अहमद"
+  },
+  {
+    "id": "31",
+    "dbFile": "ma_hi_hindi.db",
+    "languageCode": "hi",
+    "bookName": "",
+    "language": "Hindi",
+    "translator": "Suhel Farooq Khan and Saifur Rahman Nadwi",
+    "translatorForeign": "फ़ारूक़ ख़ान & नदवी"
+  },
+  {
+    "id": "32",
+    "dbFile": "ma_id_indonesian.db",
+    "languageCode": "id",
+    "bookName": "",
+    "language": "Indonesian",
+    "translator": "Bahasa Indonesia",
+    "translatorForeign": "Indonesian Ministry of Religious Affairs"
+  },
+  {
+    "id": "33",
+    "dbFile": "ma_id_jalalayn.db",
+    "languageCode": "id",
+    "bookName": "",
+    "language": "Indonesian",
+    "translator": "Tafsir Jalalayn",
+    "translatorForeign": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti"
+  },
+  {
+    "id": "34",
+    "dbFile": "ma_id_muntakhab.db",
+    "languageCode": "id",
+    "bookName": "",
+    "language": "Indonesian",
+    "translator": "Quraish Shihab",
+    "translatorForeign": "Muhammad Quraish Shihab"
+  },
+  {
+    "id": "35",
+    "dbFile": "ma_it_piccardo.db",
+    "languageCode": "it",
+    "bookName": "",
+    "language": "Italian",
+    "translator": "Hamza Piccardo",
+    "translatorForeign": "Hamza Roberto Piccardo"
+  },
+  {
+    "id": "36",
+    "dbFile": "ma_ja_japanese.db",
+    "languageCode": "ja",
+    "bookName": "",
+    "language": "Japanese",
+    "translator": "Umar, Ryoichi Mita w. Japan Muslim Association (日本ムスリム協会編)",
+    "translatorForeign": "アル=クルアーン（コーラン）"
+  },
+  {
+    "id": "37",
+    "dbFile": "ma_ko_korean.db",
+    "languageCode": "ko",
+    "bookName": "",
+    "language": "Korean",
+    "translator": "Kim, Young-Sun",
+    "translatorForeign": "꾸란 (코란)"
+  },
+  {
+    "id": "38",
+    "dbFile": "ma_ku_asan.db",
+    "languageCode": "ku",
+    "bookName": "",
+    "language": "Kurdish",
+    "translator": "Burhan Muhammad-Amin",
+    "translatorForeign": "ته فسیری ئاسان"
+  },
+  {
+    "id": "39",
+    "dbFile": "ma_ml_abdulhameed.db",
+    "languageCode": "ml",
+    "bookName": "",
+    "language": "Kurdish",
+    "translator": "Cheriyamundam Abdul Hameed and Kunhi Mohammed Parappoor",
+    "translatorForeign": "അബ്ദുല് ഹമീദ് & പറപ്പൂര്"
+  },
+  {
+    "id": "40",
+    "dbFile": "ma_ml_karakunnu.db",
+    "languageCode": "ml",
+    "bookName": "",
+    "language": "Kurdish",
+    "translator": "Muhammad Karakunnu and Vanidas Elayavoor",
+    "translatorForeign": "കാരകുന്ന് & എളയാവൂര്"
+  },
+  {
+    "id": "41",
+    "dbFile": "ma_ms_basmeih.db",
+    "languageCode": "ms",
+    "bookName": "",
+    "language": "Malay",
+    "translator": "Abdullah Basmeih",
+    "translatorForeign": "Abdullah Muhammad Basmeih"
+  },
+  {
+    "id": "42",
+    "dbFile": "ma_ms_basmeih.db",
+    "languageCode": "ms",
+    "bookName": "",
+    "language": "Malay",
+    "translator": "Abdullah Basmeih",
+    "translatorForeign": "Abdullah Muhammad Basmeih"
+  },
+  {
+    "id": "43",
+    "dbFile": "ma_nl_keyzer.db",
+    "languageCode": "nl",
+    "bookName": "",
+    "language": "Dutch",
+    "translator": "Salomo Keyzer",
+    "translatorForeign": "Salomo Keyzer"
+  },
+  {
+    "id": "44",
+    "dbFile": "ma_nl_leemhuis.db",
+    "languageCode": "nl",
+    "bookName": "",
+    "language": "Dutch",
+    "translator": "Fred Leemhuis",
+    "translatorForeign": "Fred Leemhuis"
+  },
+  {
+    "id": "45",
+    "dbFile": "ma_nl_siregar.db",
+    "languageCode": "nl",
+    "bookName": "",
+    "language": "Dutch",
+    "translator": "Sofian S. Siregar",
+    "translatorForeign": "Sofian S. Siregar"
+  },
+  {
+    "id": "46",
+    "dbFile": "ma_no_berg.db",
+    "languageCode": "no",
+    "bookName": "",
+    "language": "Norwegian",
+    "translator": "Einar Berg",
+    "translatorForeign": "Einar Berg"
+  },
+  {
+    "id": "47",
+    "dbFile": "ma_pl_bielawskiego.db",
+    "languageCode": "pl",
+    "bookName": "",
+    "language": "Polish",
+    "translator": "Józefa Bielawskiego",
+    "translatorForeign": "Józefa Bielawskiego"
+  },
+  {
+    "id": "48",
+    "dbFile": "ma_pt_elhayek.db",
+    "languageCode": "pt",
+    "bookName": "",
+    "language": "Portuguese",
+    "translator": "Samir El-Hayek",
+    "translatorForeign": "Samir El-Hayek"
+  },
+  {
+    "id": "49",
+    "dbFile": "ma_ro_grigore.db",
+    "languageCode": "ro",
+    "bookName": "",
+    "language": "Romanian",
+    "translator": "George Grigore",
+    "translatorForeign": "George Grigore"
+  },
+  {
+    "id": "50",
+    "dbFile": "ma_ro_grigore.db",
+    "languageCode": "ro",
+    "bookName": "",
+    "language": "Romanian",
+    "translator": "George Grigore",
+    "translatorForeign": "George Grigore"
+  },
+  {
+    "id": "51",
+    "dbFile": "ma_ru_kuliev-alsaadi.db",
+    "languageCode": "ru",
+    "bookName": "",
+    "language": "Russian",
+    "translator": "Elmir Kuliev (with Abd ar-Rahman as-Saadi's commentaries)",
+    "translatorForeign": "Кулиев & Ас-Саади"
+  },
+  {
+    "id": "52",
+    "dbFile": "ma_ru_muntahab.db",
+    "languageCode": "ru",
+    "bookName": "Аль-Мунтахаб",
+    "language": "Russian",
+    "translator": "Ministry of Awqaf, Egypt",
+    "translatorForeign": "Ministry of Awqaf, Egypt"
+  },
+  {
+    "id": "53",
+    "dbFile": "ma_ru_osmanov.db",
+    "languageCode": "ru",
+    "bookName": "",
+    "language": "Russian",
+    "translator": "Magomed-Nuri Osmanovich Osmanov",
+    "translatorForeign": "Османов"
+  },
+  {
+    "id": "54",
+    "dbFile": "ma_ru_porokhova.db",
+    "languageCode": "ru",
+    "bookName": "",
+    "language": "Russian",
+    "translator": "V. Porokhova",
+    "translatorForeign": "Порохова"
+  },
+  {
+    "id": "55",
+    "dbFile": "ma_sd_amroti.db",
+    "languageCode": "sd",
+    "bookName": "",
+    "language": "Russian",
+    "translator": "Taj Mehmood Amroti",
+    "translatorForeign": "امروٽي"
+  },
+  {
+    "id": "56",
+    "dbFile": "ma_so_abduh.db",
+    "languageCode": "so",
+    "bookName": "",
+    "language": "Somali",
+    "translator": "Mahmud Muhammad Abduh",
+    "translatorForeign": "Mahmud Muhammad Abduh"
+  },
+  {
+    "id": "57",
+    "dbFile": "ma_sq_ahmeti.db",
+    "languageCode": "sq",
+    "bookName": "",
+    "language": "Albanian",
+    "translator": "Sherif Ahmeti",
+    "translatorForeign": "Sherif Ahmeti"
+  },
+  {
+    "id": "58",
+    "dbFile": "ma_sq_mehdiu.db",
+    "languageCode": "sq",
+    "bookName": "",
+    "language": "Albanian",
+    "translator": "Feti Mehdiu",
+    "translatorForeign": "Feti Mehdiu"
+  },
+  {
+    "id": "59",
+    "dbFile": "ma_sq_nahi.db",
+    "languageCode": "sq",
+    "bookName": "",
+    "language": "Albanian",
+    "translator": "Hasan Efendi Nahi",
+    "translatorForeign": "Hasan Efendi Nahi"
+  },
+  {
+    "id": "60",
+    "dbFile": "ma_sv_bernstrom.db",
+    "languageCode": "sv",
+    "bookName": "",
+    "language": "Swedish",
+    "translator": "Knut Bernström",
+    "translatorForeign": "Knut Bernström"
+  },
+  {
+    "id": "61",
+    "dbFile": "ma_sw_barwani.db",
+    "languageCode": "sw",
+    "bookName": "",
+    "language": "Swahili",
+    "translator": "Ali Muhsin Al-Barwani",
+    "translatorForeign": "Ali Muhsin Al-Barwani"
+  },
+  {
+    "id": "62",
+    "dbFile": "ma_ta_tamil.db",
+    "languageCode": "ta",
+    "bookName": "",
+    "language": "Tamil",
+    "translator": "ஜான் டிரஸ்ட்",
+    "translatorForeign": "Jan Trust Foundation"
+  },
+  {
+    "id": "63",
+    "dbFile": "ma_tg_ayati.db",
+    "languageCode": "tg",
+    "bookName": "",
+    "language": "Tajik",
+    "translator": "AbdolMohammad Ayati",
+    "translatorForeign": "Оятӣ"
+  },
+  {
+    "id": "64",
+    "dbFile": "ma_th_thai.db",
+    "languageCode": "th",
+    "bookName": "",
+    "language": "Thai",
+    "translator": "King Fahd Quran Complex",
+    "translatorForeign": "ภาษาไทย"
+  },
+  {
+    "id": "65",
+    "dbFile": "ma_tr_diyanet.db",
+    "languageCode": "tr",
+    "bookName": "",
+    "language": "Turkish",
+    "translator": "Diyanet Vakfı",
+    "translatorForeign": "Diyanet Vakfı"
+  },
+  {
+    "id": "66",
+    "dbFile": "ma_tr_ozturk.db",
+    "languageCode": "tr",
+    "bookName": "",
+    "language": "Turkish",
+    "translator": "Yasar Nuri Ozturk",
+    "translatorForeign": "Öztürk"
+  },
+  {
+    "id": "67",
+    "dbFile": "ma_tr_transliteration.db",
+    "languageCode": "tr",
+    "bookName": "",
+    "language": "Turkish",
+    "translator": "Turkish Transliteration",
+    "translatorForeign": "Turkish Transliteration"
+  },
+  {
+    "id": "68",
+    "dbFile": "ma_tr_yazir.db",
+    "languageCode": "tr",
+    "bookName": "",
+    "language": "Turkish",
+    "translator": "Elmalili Hamdi Yazir",
+    "translatorForeign": "Elmalılı Hamdi Yazır"
+  },
+  {
+    "id": "69",
+    "dbFile": "ma_tt_nugman.db",
+    "languageCode": "tt",
+    "bookName": "",
+    "language": "Tatar",
+    "translator": "Yakub Ibn Nugman",
+    "translatorForeign": "Yakub Ibn Nugman"
+  },
+  {
+    "id": "70",
+    "dbFile": "ma_ug_saleh.db",
+    "languageCode": "ug",
+    "bookName": "",
+    "language": "Uyghur",
+    "translator": "Muhammad Saleh",
+    "translatorForeign": "محمد صالح"
+  },
+  {
+    "id": "71",
+    "dbFile": "ma_ur_ahmedali.db",
+    "languageCode": "ur",
+    "bookName": "",
+    "language": "Urdu",
+    "translator": "Ahmed Ali",
+    "translatorForeign": "احمد علی"
+  },
+  {
+    "id": "72",
+    "dbFile": "ma_ur_jalandhry.db",
+    "languageCode": "ur",
+    "bookName": "",
+    "language": "Urdu",
+    "translator": "Fateh Muhammad Jalandhry",
+    "translatorForeign": "جالندہری"
+  },
+  {
+    "id": "73",
+    "dbFile": "ma_ur_jawadi.db",
+    "languageCode": "ur",
+    "bookName": "",
+    "language": "Urdu",
+    "translator": "Syed Zeeshan Haider Jawadi",
+    "translatorForeign": "علامہ جوادی"
+  },
+  {
+    "id": "74",
+    "dbFile": "ma_ur_junagarhi.db",
+    "languageCode": "ur",
+    "bookName": "",
+    "language": "Urdu",
+    "translator": "Muhammad Junagarhi",
+    "translatorForeign": "محمد جوناگڑھی"
+  },
+  {
+    "id": "75",
+    "dbFile": "ma_ur_maududi.db",
+    "languageCode": "ur",
+    "bookName": "",
+    "language": "Urdu",
+    "translator": "Abul A'ala Maududi",
+    "translatorForeign": "ابوالاعلی مودودی"
+  },
+  {
+    "id": "76",
+    "dbFile": "ma_uz_sodik.db",
+    "languageCode": "uz",
+    "bookName": "",
+    "language": "Urdu",
+    "translator": "Muhammad Sodik Muhammad Yusuf",
+    "translatorForeign": "Мухаммад Содик"
+  },
+  {
+    "id": "77",
+    "dbFile": "ma_zh_jian.db",
+    "languageCode": "zh",
+    "bookName": "",
+    "language": "Chinese",
+    "translator": "Ma Jian",
+    "translatorForeign": "Ma Jian"
+  },
+  {
+    "id": "78",
+    "dbFile": "ma_zh_majian.db",
+    "languageCode": "zh",
+    "bookName": "",
+    "language": "Chinese",
+    "translator": "Ma Jian (Traditional)",
+    "translatorForeign": "Ma Jian (Traditional)"
+  }
+]
