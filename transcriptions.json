@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "dbFile": "ma_en_transliteration.db",
+        "languageCode": "en",
+        "bookName": "",
+        "language": "English",
+        "translator": "English Transcription",
+        "translatorForeign": "English Transcription"
+    },
+    {
+        "id": "2",
+        "dbFile": "ma_tr_transliteration.db",
+        "languageCode": "tr",
+        "bookName": "",
+        "language": "Turkish",
+        "translator": "Turkish Transcription",
+        "translatorForeign": "Turkish Transcription"
+    }
+]

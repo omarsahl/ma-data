@@ -162,15 +162,6 @@
     "translatorForeign": "Saheeh International"
   },
   {
-    "id": "19",
-    "dbFile": "ma_en_transliteration.db",
-    "languageCode": "en",
-    "bookName": "",
-    "language": "English",
-    "translator": "English Transliteration",
-    "translatorForeign": "English Transliteration"
-  },
-  {
     "id": "20",
     "dbFile": "ma_en_yusufali.db",
     "languageCode": "en",
@@ -592,15 +583,6 @@
     "language": "Turkish",
     "translator": "Yasar Nuri Ozturk",
     "translatorForeign": "Öztürk"
-  },
-  {
-    "id": "67",
-    "dbFile": "ma_tr_transliteration.db",
-    "languageCode": "tr",
-    "bookName": "",
-    "language": "Turkish",
-    "translator": "Turkish Transliteration",
-    "translatorForeign": "Turkish Transliteration"
   },
   {
     "id": "68",
